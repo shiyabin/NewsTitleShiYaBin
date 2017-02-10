@@ -86,16 +86,16 @@ public class Main3Activity extends FragmentActivity implements View.OnClickListe
 
                 transaction1.commit();
 
-                iv_xw.setBackgroundResource(R.drawable.b_newhome_tabbar_press);
+                iv_xw.setBackgroundResource(R.drawable.xw2);
                 tv_xw.setTextColor(Color.RED);
 
-                iv_sp.setBackgroundResource(R.drawable.b_newvideo_tabbar);
+                iv_sp.setBackgroundResource(R.drawable.sp);
                 tv_sp.setTextColor(Color.BLACK);
 
-                iv_fx.setBackgroundResource(R.drawable.b_newcare_tabbar);
+                iv_fx.setBackgroundResource(R.drawable.fx);
                 tv_fx.setTextColor(Color.BLACK);
 
-                iv_wd.setBackgroundResource(R.drawable.b_newnologin_tabbar);
+                iv_wd.setBackgroundResource(R.drawable.wd);
                 tv_wd.setTextColor(Color.BLACK);
 
 
@@ -112,16 +112,16 @@ public class Main3Activity extends FragmentActivity implements View.OnClickListe
 
                 transaction2.commit();
 
-                iv_xw.setBackgroundResource(R.drawable.b_newhome_tabbar);
+                iv_xw.setBackgroundResource(R.drawable.xw);
                 tv_xw.setTextColor(Color.BLACK);
 
-                iv_sp.setBackgroundResource(R.drawable.b_newvideo_tabbar_press);
+                iv_sp.setBackgroundResource(R.drawable.sp2);
                 tv_sp.setTextColor(Color.RED);
 
-                iv_fx.setBackgroundResource(R.drawable.b_newcare_tabbar);
+                iv_fx.setBackgroundResource(R.drawable.fx);
                 tv_fx.setTextColor(Color.BLACK);
 
-                iv_wd.setBackgroundResource(R.drawable.b_newnologin_tabbar);
+                iv_wd.setBackgroundResource(R.drawable.wd);
                 tv_wd.setTextColor(Color.BLACK);
 
                 break;
@@ -135,16 +135,16 @@ public class Main3Activity extends FragmentActivity implements View.OnClickListe
 
                 transaction3.commit();
 
-                iv_xw.setBackgroundResource(R.drawable.b_newhome_tabbar);
+                iv_xw.setBackgroundResource(R.drawable.xw);
                 tv_xw.setTextColor(Color.BLACK);
 
-                iv_sp.setBackgroundResource(R.drawable.b_newvideo_tabbar);
+                iv_sp.setBackgroundResource(R.drawable.sp);
                 tv_sp.setTextColor(Color.BLACK);
 
-                iv_fx.setBackgroundResource(R.drawable.b_newcare_tabbar_press);
+                iv_fx.setBackgroundResource(R.drawable.fx2);
                 tv_fx.setTextColor(Color.RED);
 
-                iv_wd.setBackgroundResource(R.drawable.b_newnologin_tabbar);
+                iv_wd.setBackgroundResource(R.drawable.wd);
                 tv_wd.setTextColor(Color.BLACK);
 
 
@@ -159,16 +159,16 @@ public class Main3Activity extends FragmentActivity implements View.OnClickListe
 
                 transaction4.commit();
 
-                iv_xw.setBackgroundResource(R.drawable.b_newhome_tabbar);
+                iv_xw.setBackgroundResource(R.drawable.xw);
                 tv_xw.setTextColor(Color.BLACK);
 
-                iv_sp.setBackgroundResource(R.drawable.b_newvideo_tabbar);
+                iv_sp.setBackgroundResource(R.drawable.sp);
                 tv_sp.setTextColor(Color.BLACK);
 
-                iv_fx.setBackgroundResource(R.drawable.b_newcare_tabbar);
+                iv_fx.setBackgroundResource(R.drawable.fx);
                 tv_fx.setTextColor(Color.BLACK);
 
-                iv_wd.setBackgroundResource(R.drawable.b_newnologin_tabbar_press);
+                iv_wd.setBackgroundResource(R.drawable.wd2);
                 tv_wd.setTextColor(Color.RED);
 
 

@@ -32,7 +32,7 @@
                 android:id="@+id/iv_xw"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
-                android:background="@drawable/b_newhome_tabbar_press"/>
+                android:background="@drawable/xw2"/>
             <TextView
                 android:id="@+id/tv_xw"
                 android:layout_width="wrap_content"
@@ -54,7 +54,7 @@
                 android:id="@+id/iv_sp"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
-                android:background="@drawable/b_newvideo_tabbar"/>
+                android:background="@drawable/sp"/>
             <TextView
                 android:id="@+id/tv_sp"
                 android:layout_width="wrap_content"
@@ -75,7 +75,7 @@
                 android:id="@+id/iv_fx"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
-                android:background="@drawable/b_newcare_tabbar"/>
+                android:background="@drawable/fx"/>
             <TextView
                 android:id="@+id/tv_fx"
                 android:layout_width="wrap_content"
@@ -97,7 +97,7 @@
                 android:id="@+id/iv_wd"
                 android:layout_width="35dp"
                 android:layout_height="35dp"
-                android:background="@drawable/b_newnologin_tabbar"/>
+                android:background="@drawable/wd"/>
             <TextView
                 android:id="@+id/tv_wd"
                 android:layout_width="wrap_content"
